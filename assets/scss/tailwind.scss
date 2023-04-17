@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.router-link-exact-active {
+  @apply bg-white shadow-sm;
+  color: #12b488;
+  font-family: "Courier New", Courier, monospace;
+}

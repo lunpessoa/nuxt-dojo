@@ -1,0 +1,8 @@
+{
+  "scss.lint.unknownAtRules": "ignore",
+  "tailwindCSS.emmetCompletions": true,
+  "editor.inlineSuggest.enabled": true,
+  "editor.quickSuggestions": {
+    "strings": true
+  }
+}
